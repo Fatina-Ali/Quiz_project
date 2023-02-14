@@ -1,0 +1,80 @@
+body {
+  background-color: beige;
+  position: relative;
+}
+.indexPage {
+  font-size: 80px;
+  font-family: cursive;
+  margin: auto;
+  position: absolute;
+  left: 460px;
+  color: orange;
+}
+/* .im {
+  /* width: 700px;
+  height: 500px; */
+/* position: absolute;
+  top: 145px;
+  left: 380px;
+}*/
+.p {
+  position: absolute;
+  top: 150px;
+  left: 600px;
+  height: 60px;
+
+  font-size: 35px;
+  width: 200px;
+}
+
+#questionNumber {
+  font-size: 35px;
+  position: absolute;
+  top: 300px;
+  left: 80px;
+  color: green;
+}
+
+#questionText {
+  position: absolute;
+  top: 330px;
+  left: 80px;
+  font-size: 35px;
+}
+
+#answerList {
+  position: absolute;
+  top: 410px;
+  left: 80px;
+  font-size: 35px;
+}
+button {
+  display: block;
+  height: 40px;
+  width: 350px;
+  font-size: 15px;
+}
+#score {
+  position: absolute;
+  top: 270px;
+  /* top: 820px; */
+  left: 1000px;
+  font-size: 35px;
+  color: orange;
+}
+
+#repeatbtn {
+  position: absolute;
+  top: 650px;
+  left: 600px;
+  font-size: 20px;
+}
+#startbtn {
+  position: absolute;
+  top: 165px;
+  left: 600px;
+  height: 60px;
+
+  font-size: 35px;
+  width: 200px;
+}
